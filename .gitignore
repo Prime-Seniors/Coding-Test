@@ -1,0 +1,45 @@
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 썸네일 캐시
+._*
+
+# 아이콘 파일
+Icon?
+Desktop.ini
+
+# Spotlight 파일
+.Spotlight-V100
+.Trashes
+
+# Git 이외의 백업
+*.swp
+*.swo
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 가상환경
+venv/
+.env/
+.envrc
+.Python
+
+# Jupyter notebook 체크포인트
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS/Editor logs
+*.log
+
+# Byte-compiled Java class files
+*.class
