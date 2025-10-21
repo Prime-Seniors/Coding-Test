@@ -13,7 +13,7 @@ We aim to improve algorithm skills and problem-solving abilities together throug
 ```plaintext
 Coding-Test/
 ├── BOJ/          # 백준 문제 풀이
-├── SWEA/         # 삼성 SW Expert 문제 풀이
 ├── programmers/  # 프로그래머스 문제 풀이
+├── SWEA/         # 삼성 SW Expert 문제 풀이
 └── README.md
 ```
